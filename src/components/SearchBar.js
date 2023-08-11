@@ -4,7 +4,7 @@ import { TopicFilter } from "./TopicFilter";
 export const SearchBar = () => {
     return (
         < div >
-            <TopicFilter /> 
+            <TopicFilter/> 
             <LevelFilter/>           
         </div>
     );
